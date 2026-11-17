@@ -1,0 +1,9 @@
+{
+	"properties": {
+		"amount": 1,
+		"process_material.emission_shape": 1,
+		"material.particles_anim_h_frames": 4,
+		"lifetime": .25
+	},
+	"variations": {"default": {"source": "SkidParticles.png"}}
+}

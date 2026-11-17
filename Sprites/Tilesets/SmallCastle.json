@@ -1,0 +1,15 @@
+{
+	"properties":
+	{
+		"use_sprite": true
+	},
+	"variations": {
+		"default": {"source": "EndingCastleSprite.png"},
+		"rect": [
+					0.0,
+					0.0,
+					144.0,
+					80.0,
+				]
+	}
+}
