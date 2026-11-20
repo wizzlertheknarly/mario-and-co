@@ -1,10 +1,10 @@
 {
     "Normal": {
-        "source": "Castle.mp3",
+        "source": "08 Track 8.wav",
         "loop": 0.0
     },
     "Hurry": {
-        "source": "CastleHurry.mp3",
+        "source": "08 Track 8.wav",
         "loop": 0.0
     }
 }
